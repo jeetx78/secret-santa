@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+.pnpm-store/
+dist/
+build/
+*.log
+
+# environment
+.env
+.env.local
+.env.production
+.env.development
+
+# editor
+.vscode/
+.idea/
+.DS_Store
