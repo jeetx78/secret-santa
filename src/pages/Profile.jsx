@@ -96,7 +96,7 @@ export default function Profile() {
         { id: "trust", label: "🤝 Who do you trust the most?" },
         { id: "time", label: "⏳ Who do you want to spend more time with?" },
         { id: "crime", label: "🕵️ Who is your partner in crime?" },
-        { id: "gossip", label: " Who do you gossip with the most?" },
+        { id: "gossip", label: " 🗣️ Who do you gossip with the most?" },
         { id: "surprises", label: "🎁 Who gives the best surprises?" },
 
 
