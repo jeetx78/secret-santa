@@ -96,6 +96,10 @@ export default function Profile() {
         { id: "trust", label: "🤝 Who do you trust the most?" },
         { id: "time", label: "⏳ Who do you want to spend more time with?" },
         { id: "crime", label: "🕵️ Who is your partner in crime?" },
+        { id: "gossip", label: " Who do you gossip with the most?" },
+        { id: "surprises", label: "🎁 Who gives the best surprises?" },
+
+
         {
             id: "admire",
             label: "❤️ Who do you admire & love for their capabilities?",
@@ -112,6 +116,8 @@ export default function Profile() {
         crime: { title: "Partner-in-Crime Magnet", emoji: "🕵️" },
         admire: { title: "Most Admired", emoji: "❤️" },
         fun: { title: "Most Fun", emoji: "🎉" },
+        gossip: { title: "Gossip Partner", emoji: "🗣️" },
+        surprises: { title: "Surprise Master", emoji: "🎁" },
     };
 
     // ───────── Local overlay for answers (FIX) ─────────
